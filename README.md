@@ -1,16 +1,29 @@
-# time_capsule
+# ⏳ TimeCapsule
 
-A new Flutter project.
+A Flutter app that lets you preserve your memories, notes, and media in a **digital time capsule** to unlock and revisit in the future.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Overview  
+TimeCapsule is designed to capture your present moments and save them securely for your future self.  
+Write a note, record a memory, or add media — lock it inside a capsule and reopen it later to relive the experience.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features  
+- 📝 Create and save personal notes or letters  
+- 📸 Add images and media as memories  
+- ⏰ Set unlock dates for your capsules  
+- 🔒 Secure and private storage  
+- 🎨 Clean and modern Flutter UI  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 Getting Started  
+
+### Clone the repository  
+```bash
+git clone https://github.com/AtifAnayat/time_capsule.git
+cd time_capsule
+flutter pub get
+flutter run
